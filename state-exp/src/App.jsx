@@ -26,7 +26,7 @@ function ToggleBulbState({setBulbOn}){
   }
 return (
   <>
-  <button onClick={toggle}>Toggle the bulb</button>
+  <button onClick={toggle}>Toggle the Bulb</button>
   </>
 )
 }
