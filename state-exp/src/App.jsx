@@ -34,7 +34,7 @@ return (
 function BulbState({bulbOn}){
 return(
   <>
-  {bulbOn ? "Bulb on":"Bulb off"}
+  {bulbOn ? "Bulb on":"Bulb Off"}
   </>
 )
 }
